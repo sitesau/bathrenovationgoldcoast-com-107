@@ -1,0 +1,22 @@
+{
+  "wheel_id": 607,
+  "structure": "umbrella",
+  "slug": "bathrenovationgoldcoast-com-107",
+  "project": "bathroom-renovations-gold-coast-maintenance-12366e5e6117aad483e",
+  "parent_t1_ref": "bathrenovationgoldcoast-com-153",
+  "node_role": "feeder",
+  "money_target": "bathrenovationgoldcoast.com.au",
+  "primary_kw": "bathroom renovations gold coast maintenance",
+  "intended_url": "https://aumedia.neocities.org/bathroom-renovations-gold-coast-maintenance-12366e5e6117aad483e/",
+  "tier": "T2",
+  "writeback_nonce": "0005e5811b256e4d",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/bathrenovationgoldcoast-com-153/",
+      "anchor": "the bathroom renovations gold coast materials compared overview",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
